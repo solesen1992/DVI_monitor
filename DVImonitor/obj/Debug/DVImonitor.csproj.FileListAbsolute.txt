@@ -1,0 +1,63 @@
+C:\Users\saram\source\repos\DVImonitor\DVImonitor\obj\Debug\DVImonitor.csproj.AssemblyReference.cache
+C:\Users\saram\source\repos\DVImonitor\DVImonitor\obj\Debug\DVImonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\saram\source\repos\DVImonitor\DVImonitor\obj\Debug\DVImonitor.csproj.CoreCompileInputs.cache
+C:\Users\saram\source\repos\DVImonitor\DVImonitor\bin\Debug\DVImonitor.exe.config
+C:\Users\saram\source\repos\DVImonitor\DVImonitor\bin\Debug\DVImonitor.exe
+C:\Users\saram\source\repos\DVImonitor\DVImonitor\bin\Debug\DVImonitor.pdb
+C:\Users\saram\source\repos\DVImonitor\DVImonitor\obj\Debug\DVImonitor.exe
+C:\Users\saram\source\repos\DVImonitor\DVImonitor\obj\Debug\DVImonitor.pdb
+C:\Users\Benja\Desktop\DVImonitor - Version 9\DVImonitor\bin\Debug\DVImonitor.exe.config
+C:\Users\Benja\Desktop\DVImonitor - Version 9\DVImonitor\bin\Debug\DVImonitor.exe
+C:\Users\Benja\Desktop\DVImonitor - Version 9\DVImonitor\bin\Debug\DVImonitor.pdb
+C:\Users\Benja\Desktop\DVImonitor - Version 9\DVImonitor\obj\Debug\DVImonitor.csproj.AssemblyReference.cache
+C:\Users\Benja\Desktop\DVImonitor - Version 9\DVImonitor\obj\Debug\DVImonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benja\Desktop\DVImonitor - Version 9\DVImonitor\obj\Debug\DVImonitor.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Desktop\DVImonitor - Version 9\DVImonitor\obj\Debug\DVImonitor.exe
+C:\Users\Benja\Desktop\DVImonitor - Version 9\DVImonitor\obj\Debug\DVImonitor.pdb
+C:\Users\Benja\OneDrive\Skrivebord\DVImonitor - Version 10\DVImonitor\bin\Debug\DVImonitor.exe.config
+C:\Users\Benja\OneDrive\Skrivebord\DVImonitor - Version 10\DVImonitor\bin\Debug\DVImonitor.exe
+C:\Users\Benja\OneDrive\Skrivebord\DVImonitor - Version 10\DVImonitor\bin\Debug\DVImonitor.pdb
+C:\Users\Benja\OneDrive\Skrivebord\DVImonitor - Version 10\DVImonitor\obj\Debug\DVImonitor.csproj.AssemblyReference.cache
+C:\Users\Benja\OneDrive\Skrivebord\DVImonitor - Version 10\DVImonitor\obj\Debug\DVImonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benja\OneDrive\Skrivebord\DVImonitor - Version 10\DVImonitor\obj\Debug\DVImonitor.csproj.CoreCompileInputs.cache
+C:\Users\Benja\OneDrive\Skrivebord\DVImonitor - Version 10\DVImonitor\obj\Debug\DVImonitor.exe
+C:\Users\Benja\OneDrive\Skrivebord\DVImonitor - Version 10\DVImonitor\obj\Debug\DVImonitor.pdb
+C:\Users\Benja\OneDrive\Skrivebord\new\DVImonitor\bin\Debug\DVImonitor.exe.config
+C:\Users\Benja\OneDrive\Skrivebord\new\DVImonitor\bin\Debug\DVImonitor.exe
+C:\Users\Benja\OneDrive\Skrivebord\new\DVImonitor\bin\Debug\DVImonitor.pdb
+C:\Users\Benja\OneDrive\Skrivebord\new\DVImonitor\obj\Debug\DVImonitor.csproj.AssemblyReference.cache
+C:\Users\Benja\OneDrive\Skrivebord\new\DVImonitor\obj\Debug\DVImonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benja\OneDrive\Skrivebord\new\DVImonitor\obj\Debug\DVImonitor.csproj.CoreCompileInputs.cache
+C:\Users\Benja\OneDrive\Skrivebord\new\DVImonitor\obj\Debug\DVImonitor.exe
+C:\Users\Benja\OneDrive\Skrivebord\new\DVImonitor\obj\Debug\DVImonitor.pdb
+C:\Users\saram\Downloads\DVIMonitor - Version 12\DVImonitor\bin\Debug\DVImonitor.exe.config
+C:\Users\saram\Downloads\DVIMonitor - Version 12\DVImonitor\bin\Debug\DVImonitor.exe
+C:\Users\saram\Downloads\DVIMonitor - Version 12\DVImonitor\bin\Debug\DVImonitor.pdb
+C:\Users\saram\Downloads\DVIMonitor - Version 12\DVImonitor\obj\Debug\DVImonitor.csproj.AssemblyReference.cache
+C:\Users\saram\Downloads\DVIMonitor - Version 12\DVImonitor\obj\Debug\DVImonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\saram\Downloads\DVIMonitor - Version 12\DVImonitor\obj\Debug\DVImonitor.csproj.CoreCompileInputs.cache
+C:\Users\saram\Downloads\DVIMonitor - Version 12\DVImonitor\obj\Debug\DVImonitor.exe
+C:\Users\saram\Downloads\DVIMonitor - Version 12\DVImonitor\obj\Debug\DVImonitor.pdb
+C:\Users\Benja\Desktop\DVImonitor - Version 13\DVImonitor\obj\Debug\DVImonitor.csproj.AssemblyReference.cache
+C:\Users\Benja\Desktop\DVImonitor - Version 13\DVImonitor\obj\Debug\DVImonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benja\Desktop\DVImonitor - Version 13\DVImonitor\obj\Debug\DVImonitor.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Desktop\DVImonitor - Version 13\DVImonitor\obj\Debug\DVImonitor.exe
+C:\Users\Benja\Desktop\DVImonitor - Version 13\DVImonitor\obj\Debug\DVImonitor.pdb
+C:\Users\Benja\Desktop\DVImonitor - Version 13\DVImonitor\bin\Debug\DVImonitor.exe.config
+C:\Users\Benja\Desktop\DVImonitor - Version 13\DVImonitor\bin\Debug\DVImonitor.exe
+C:\Users\Benja\Desktop\DVImonitor - Version 13\DVImonitor\bin\Debug\DVImonitor.pdb
+C:\Users\saram\OneDrive\Skrivebord\IT og samfund screenshots\Gruppe 3\DVImonitor\bin\Debug\DVImonitor.exe.config
+C:\Users\saram\OneDrive\Skrivebord\IT og samfund screenshots\Gruppe 3\DVImonitor\bin\Debug\DVImonitor.exe
+C:\Users\saram\OneDrive\Skrivebord\IT og samfund screenshots\Gruppe 3\DVImonitor\bin\Debug\DVImonitor.pdb
+C:\Users\saram\OneDrive\Skrivebord\IT og samfund screenshots\Gruppe 3\DVImonitor\obj\Debug\DVImonitor.csproj.AssemblyReference.cache
+C:\Users\saram\OneDrive\Skrivebord\IT og samfund screenshots\Gruppe 3\DVImonitor\obj\Debug\DVImonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\saram\OneDrive\Skrivebord\IT og samfund screenshots\Gruppe 3\DVImonitor\obj\Debug\DVImonitor.csproj.CoreCompileInputs.cache
+C:\Users\saram\OneDrive\Skrivebord\IT og samfund screenshots\Gruppe 3\DVImonitor\obj\Debug\DVImonitor.exe
+C:\Users\saram\OneDrive\Skrivebord\IT og samfund screenshots\Gruppe 3\DVImonitor\obj\Debug\DVImonitor.pdb
+C:\Users\saram\Downloads\Programmering-20240711T103106Z-001\Programmering\DVImonitor\bin\Debug\DVImonitor.exe.config
+C:\Users\saram\Downloads\Programmering-20240711T103106Z-001\Programmering\DVImonitor\bin\Debug\DVImonitor.exe
+C:\Users\saram\Downloads\Programmering-20240711T103106Z-001\Programmering\DVImonitor\bin\Debug\DVImonitor.pdb
+C:\Users\saram\Downloads\Programmering-20240711T103106Z-001\Programmering\DVImonitor\obj\Debug\DVImonitor.csproj.AssemblyReference.cache
+C:\Users\saram\Downloads\Programmering-20240711T103106Z-001\Programmering\DVImonitor\obj\Debug\DVImonitor.csproj.CoreCompileInputs.cache
+C:\Users\saram\Downloads\Programmering-20240711T103106Z-001\Programmering\DVImonitor\obj\Debug\DVImonitor.exe
+C:\Users\saram\Downloads\Programmering-20240711T103106Z-001\Programmering\DVImonitor\obj\Debug\DVImonitor.pdb
