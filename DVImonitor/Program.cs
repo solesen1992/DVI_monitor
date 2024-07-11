@@ -117,7 +117,7 @@ namespace DVImonitor
             DateTime dateTime_Singapore = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, Singapore_Standard_Time); // Singapore
 
             //Sprog sættes til dansk
-            var culture = new System.Globalization.CultureInfo("da-DK"); 
+            var culture = new System.Globalization.CultureInfo("da-DK");
 
             //Tid og dato for København, London og Singapore
             Console.SetCursorPosition(15, 19);
@@ -157,23 +157,23 @@ namespace DVImonitor
             Console.CursorVisible = false;
 
             Stopwatch time1Sek = Stopwatch.StartNew();
-            Stopwatch time5Min = Stopwatch.StartNew(); 
+            Stopwatch time5Min = Stopwatch.StartNew();
 
             Streg();
             LagerStatus();
             WriteInBlue("------------------------------------------------------------");
-            Temperatur(); 
+            Temperatur();
             NewsUpdates();
 
-            while (true) 
+            while (true)
             {
                 //Opdaterer Lagerstatus og Temperatur hvert 5 minut
-                if (time5Min.ElapsedMilliseconds >= 300000) 
+                if (time5Min.ElapsedMilliseconds >= 300000)
                 {
                     time5Min.Restart();
                     LagerStatus();
                     Temperatur();
-                    NewsUpdates(); 
+                    NewsUpdates();
                 }
 
                 //Opdaterer tid og dato hvert sekund
