@@ -14,7 +14,7 @@ Furthermore, there was a request to include news in the program, which is implem
 
 The DVI monitor was part of a group project in 2023.
 
-# Picture of the console program
+# Screenshot of the console program
 <img width="726" alt="DVI monitor screenshot" src="https://github.com/solesen1992/DVI_monitor/assets/123094773/445a31a3-5d99-4c04-a66a-ec4e0f76aaa9">
 
 # Documentation
